@@ -1,0 +1,1 @@
+-- EarthquakeTracker database schema will go here

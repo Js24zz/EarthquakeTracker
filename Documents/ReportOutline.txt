@@ -1,0 +1,6 @@
+EarthquakeTracker Coursework Report
+-----------------------------------
+1. Unix Script for Data Collection
+2. Unix Script for Plotting
+3. Use of Git for Version Control
+4. MySQL for Data Storage and ERD
